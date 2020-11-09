@@ -11,7 +11,7 @@
   "photo_url": "https://static.lafeltrinelli.it/static/images-3/xxl/67/1963067.jpg",
   "price": 6.99,
   "description": "Nomadi are an italian band   Nomadi are an italian band   Nomadi are an italian band",
-  "product": "cd"
+  "product": "cd",
    "remaining": "10"
   },
   {"name": "Matrix Reloaded", 
@@ -39,14 +39,14 @@
   "photo_url": "'https://upload.wikimedia.org/wikipedia/en/a/ab/MetalSlugLogo.png",
   "price": 4.99,
   "description": "Metal slug is a 2D game Metal slug is a 2D game Metal slug is a 2D game Metal slug is a 2D game.",
-  "product": "cd",
+  "product": "videogame",
   "remaining": "9"
   },
   {"name": "Tetris", 
   "photo_url": "https://en.wikipedia.org/wiki/Tetris_(Game_Boy_video_game)#/media/File:Tetris_Boxshot.jpg",
   "price": 10.99,
   "description": "Teris is the famous puzzle game Teris is the famous puzzle game Teris is the famous puzzle game.",
-  "product": "cd",
+  "product": "videogame",
   "remaining": "4"
   }
 ]
